@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sk789-sk (Shams Khondkar)
-- 👀 I’m interested in computer vision and modeling for biomedical applications
-- 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skm478@gmail.com
 
